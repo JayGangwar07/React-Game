@@ -37,8 +37,8 @@ const Start = () => {
       id: 3,
       name: "Mewtwo",
       level: 1,
-      sprite: "src/assets/mewtwo.png",
-      image: "src/frontMewtwo.png",
+      sprite: "/mewtwo.png",
+      image: "/frontMewtwo.png",
       attacks: [
         ["Psychic", 90],
         ["Shadow Ball", 80],
