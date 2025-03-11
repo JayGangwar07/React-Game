@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router'
+import backPikachu from "../assets/backPikachu.png"
 
 const Start = () => {
   const [selectedPokemon, setSelectedPokemon] = useState(null);
