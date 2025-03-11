@@ -12,7 +12,7 @@ const Start = () => {
       name: "Pikachu",
       level: 1,
       sprite: "src/assets/backPikachu.png",
-      image: "src/assets/pikachu.png",
+      image: {backPikachu},
       attacks: [
         ["Thunderbolt", 90],
         ["Quick Attack", 70],
