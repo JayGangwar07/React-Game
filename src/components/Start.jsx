@@ -25,7 +25,7 @@ const Start = () => {
       name: "Greninja",
       level: 1,
       sprite: "src/assets/greninja.png",
-      image: "src/assets/frontGreninja.png",
+      image: "/src/assets/frontGreninja.png",
       attacks: [
         ["Water Shuriken", 60],
         ["Night Slash", 70],
